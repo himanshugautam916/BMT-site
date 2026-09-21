@@ -1,1 +1,1 @@
-BBT — Brown Boys Transport website. Upload these files to your GitHub repository. Replace placeholder contact details and truck-photo area with your real information.
+Replace the placeholder phone, email and service area. Add your truck image later. Upload all files to the existing GitHub repository and overwrite the old versions.
